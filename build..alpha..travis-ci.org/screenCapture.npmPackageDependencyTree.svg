@@ -1,0 +1,73 @@
+<svg height="1118" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="1118" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">15 megabytes installed</tspan>
+<tspan x="10" y="42"></tspan>
+<tspan x="10" y="58">node_modules</tspan>
+<tspan x="10" y="74">└─┬ i18n-abide@0.0.25 </tspan>
+<tspan x="10" y="90">  ├── async@0.9.0 </tspan>
+<tspan x="10" y="106">  ├── gobbledygook@0.0.4 </tspan>
+<tspan x="10" y="122">  ├─┬ jsxgettext@0.7.0 </tspan>
+<tspan x="10" y="138">  │ ├── acorn@0.11.0 </tspan>
+<tspan x="10" y="154">  │ ├── commander@2.5.0 </tspan>
+<tspan x="10" y="170">  │ ├── escape-string-regexp@1.0.1 </tspan>
+<tspan x="10" y="186">  │ ├─┬ gettext-parser@1.2.2 </tspan>
+<tspan x="10" y="202">  │ │ └─┬ encoding@0.1.12 </tspan>
+<tspan x="10" y="218">  │ │   └── iconv-lite@0.4.15 </tspan>
+<tspan x="10" y="234">  │ └─┬ jade@1.11.0 </tspan>
+<tspan x="10" y="250">  │   ├── character-parser@1.2.1 </tspan>
+<tspan x="10" y="266">  │   ├─┬ clean-css@3.4.25 </tspan>
+<tspan x="10" y="282">  │   │ ├─┬ commander@2.8.1 </tspan>
+<tspan x="10" y="298">  │   │ │ └── graceful-readlink@1.0.1 </tspan>
+<tspan x="10" y="314">  │   │ └─┬ source-map@0.4.4 </tspan>
+<tspan x="10" y="330">  │   │   └── amdefine@1.0.1 </tspan>
+<tspan x="10" y="346">  │   ├── commander@2.6.0 </tspan>
+<tspan x="10" y="362">  │   ├─┬ constantinople@3.0.2 </tspan>
+<tspan x="10" y="378">  │   │ └── acorn@2.7.0 </tspan>
+<tspan x="10" y="394">  │   ├─┬ jstransformer@0.0.2 </tspan>
+<tspan x="10" y="410">  │   │ ├── is-promise@2.1.0 </tspan>
+<tspan x="10" y="426">  │   │ └─┬ promise@6.1.0 </tspan>
+<tspan x="10" y="442">  │   │   └── asap@1.0.0 </tspan>
+<tspan x="10" y="458">  │   ├── mkdirp@0.5.1 </tspan>
+<tspan x="10" y="474">  │   ├─┬ transformers@2.1.0 </tspan>
+<tspan x="10" y="490">  │   │ ├─┬ css@1.0.8 </tspan>
+<tspan x="10" y="506">  │   │ │ ├── css-parse@1.0.4 </tspan>
+<tspan x="10" y="522">  │   │ │ └── css-stringify@1.0.5 </tspan>
+<tspan x="10" y="538">  │   │ ├─┬ promise@2.0.0 </tspan>
+<tspan x="10" y="554">  │   │ │ └── is-promise@1.0.1 </tspan>
+<tspan x="10" y="570">  │   │ └─┬ uglify-js@2.2.5 </tspan>
+<tspan x="10" y="586">  │   │   ├── optimist@0.3.7 </tspan>
+<tspan x="10" y="602">  │   │   └── source-map@0.1.43 </tspan>
+<tspan x="10" y="618">  │   ├─┬ uglify-js@2.8.22 </tspan>
+<tspan x="10" y="634">  │   │ ├── source-map@0.5.6 </tspan>
+<tspan x="10" y="650">  │   │ ├── uglify-to-browserify@1.0.2 </tspan>
+<tspan x="10" y="666">  │   │ └─┬ yargs@3.10.0 </tspan>
+<tspan x="10" y="682">  │   │   ├── camelcase@1.2.1 </tspan>
+<tspan x="10" y="698">  │   │   ├─┬ cliui@2.1.0 </tspan>
+<tspan x="10" y="714">  │   │   │ ├─┬ center-align@0.1.3 </tspan>
+<tspan x="10" y="730">  │   │   │ │ ├─┬ align-text@0.1.4 </tspan>
+<tspan x="10" y="746">  │   │   │ │ │ ├─┬ kind-of@3.1.0 </tspan>
+<tspan x="10" y="762">  │   │   │ │ │ │ └── is-buffer@1.1.5 </tspan>
+<tspan x="10" y="778">  │   │   │ │ │ ├── longest@1.0.1 </tspan>
+<tspan x="10" y="794">  │   │   │ │ │ └── repeat-string@1.6.1 </tspan>
+<tspan x="10" y="810">  │   │   │ │ └── lazy-cache@1.0.4 </tspan>
+<tspan x="10" y="826">  │   │   │ ├── right-align@0.1.3 </tspan>
+<tspan x="10" y="842">  │   │   │ └── wordwrap@0.0.2 </tspan>
+<tspan x="10" y="858">  │   │   ├── decamelize@1.2.0 </tspan>
+<tspan x="10" y="874">  │   │   └── window-size@0.1.0 </tspan>
+<tspan x="10" y="890">  │   ├── void-elements@2.0.1 </tspan>
+<tspan x="10" y="906">  │   └─┬ with@4.0.3 </tspan>
+<tspan x="10" y="922">  │     ├── acorn@1.2.2 </tspan>
+<tspan x="10" y="938">  │     └─┬ acorn-globals@1.0.9 </tspan>
+<tspan x="10" y="954">  │       └── acorn@2.7.0 </tspan>
+<tspan x="10" y="970">  ├─┬ optimist@0.6.1 </tspan>
+<tspan x="10" y="986">  │ ├── minimist@0.0.8 </tspan>
+<tspan x="10" y="1002">  │ └── wordwrap@0.0.3 </tspan>
+<tspan x="10" y="1018">  └─┬ plist@1.1.0 </tspan>
+<tspan x="10" y="1034">    ├── base64-js@0.0.6 </tspan>
+<tspan x="10" y="1050">    ├── util-deprecate@1.0.0 </tspan>
+<tspan x="10" y="1066">    ├─┬ xmlbuilder@2.2.1 </tspan>
+<tspan x="10" y="1082">    │ └── lodash-node@2.4.1 </tspan>
+<tspan x="10" y="1098">    └── xmldom@0.1.27</tspan>
+</text>
+</svg>
