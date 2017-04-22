@@ -35,34 +35,9 @@
 ```json
 
 {
-    "author": "Austin King <shout@ozten.com> (http://ozten.com)",
-    "name": "i18n-abide",
-    "description": "Express/connect module for Node i18n and l10n support",
-    "version": "0.0.25",
-    "homepage": "https://github.com/mozilla/i18n-abide",
-    "repository": {
-        "type": "git",
-        "url": "git://github.com/mozilla/i18n-abide.git"
-    },
-    "bugs": {
-        "url": "http://github.com/mozilla/i18n-abide/issues"
-    },
-    "main": "lib/i18n.js",
-    "engines": {
-        "node": ">= 0.6.2"
-    },
-    "dependencies": {
-        "async": "0.9.0",
-        "gobbledygook": "https://github.com/lloyd/gobbledygook/tarball/354042684056e57ca77f036989e907707a36cff2",
-        "jsxgettext": "0.7.0",
-        "optimist": "0.6.1",
-        "plist": "1.1.0"
-    },
-    "devDependencies": {
-        "vows": "0.5.13"
-    },
-    "scripts": {
-        "test": "NODE_PATH=lib node_modules/.bin/vows tests/*-tests.js --spec"
+    "author": {
+        "name": "Austin King",
+        "url": "http://ozten.com"
     },
     "bin": {
         "check-l10n-config": "bin/check-l10n-config.js",
@@ -74,19 +49,65 @@
         "merge-po": "bin/merge-po.sh",
         "po2json.js": "bin/po2json.js"
     },
-    "licenses": [
-        {
-            "type": "MPL 2.0",
-            "url": "http://www.mozilla.org/MPL/2.0/"
-        }
-    ],
+    "bugs": {
+        "url": "http://github.com/mozilla/i18n-abide/issues"
+    },
+    "dependencies": {
+        "async": "0.9.0",
+        "gobbledygook": "https://github.com/lloyd/gobbledygook/tarball/354042684056e57ca77f036989e907707a36cff2",
+        "jsxgettext": "0.7.0",
+        "optimist": "0.6.1",
+        "plist": "1.1.0"
+    },
+    "description": "Express/connect module for Node i18n and l10n support",
+    "devDependencies": {
+        "vows": "0.5.13"
+    },
+    "directories": {},
+    "dist": {
+        "shasum": "4a582e2c2e7b1987ca40c51f4ed9d2020d118e4e",
+        "tarball": "https://registry.npmjs.org/i18n-abide/-/i18n-abide-0.0.25.tgz"
+    },
+    "engines": {
+        "node": ">= 0.6.2"
+    },
+    "gitHead": "95ee7906a3c04eb73a4e657733aaaa9760a3edf3",
+    "homepage": "https://github.com/mozilla/i18n-abide",
     "keywords": [
         "express",
         "connect",
         "l10n",
         "i18n",
         "gettext"
-    ]
+    ],
+    "licenses": [
+        {
+            "type": "MPL 2.0",
+            "url": "http://www.mozilla.org/MPL/2.0/"
+        }
+    ],
+    "main": "lib/i18n.js",
+    "maintainers": [
+        {
+            "name": "ozten"
+        },
+        {
+            "name": "fmarier"
+        },
+        {
+            "name": "zaach"
+        }
+    ],
+    "name": "i18n-abide",
+    "optionalDependencies": {},
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/mozilla/i18n-abide.git"
+    },
+    "scripts": {
+        "test": "NODE_PATH=lib node_modules/.bin/vows tests/*-tests.js --spec"
+    },
+    "version": "0.0.25"
 }
 ```
 
